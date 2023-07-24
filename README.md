@@ -27,8 +27,6 @@
 - 💻 𝙄 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙙 𝘼 𝙇𝙞𝙫𝙚 𝙏𝙧𝙖𝙘𝙠𝙚𝙧 𝙁𝙤𝙧 𝙏𝙝𝙚 𝙂𝙞𝙩𝙃𝙪𝙗.
   https://rb.gy/2ylm5
 
-  https://shorturl.at/jCPX3
-
 - 💬 If you have any doubts about my projects, feel free to ask me.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -41,8 +39,8 @@ Connect With Me:
     <a href="mailto:toufikjagirdar@gmail.com" target="blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:uapathrabe@gmail.com" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
-    <a href="https://twitter.com/Learn_earns123" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="https://twitter.com/utkarshpathrabe" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    <a href="https://https://m.facebook.com/toufik.jagirdar.7" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="https://twitter.com/utkarshpathrabe" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
      </a>
     <a href="https://www.linkedin.com/in/toufiksj" target="blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://linkedin.com/in/utkarshpathrabe" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
