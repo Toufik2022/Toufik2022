@@ -24,11 +24,10 @@
 - 😄 Pronouns: He/His
 
 
-- 💻 𝙄 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙙 𝘼 𝙇𝙞𝙫𝙚 𝙏𝙧𝙖𝙘𝙠𝙚𝙧 𝙁𝙤𝙧 𝙏𝙝𝙚 𝙉𝙪𝙢𝙗𝙚𝙧 𝙊𝙛 𝙋𝙧𝙤𝙛𝙞𝙡𝙚 𝙑𝙞𝙚𝙬𝙨 & 𝙁𝙤𝙡𝙡𝙤𝙬𝙚𝙧𝙨 𝘾𝙤𝙪𝙣𝙩 𝙊𝙣 𝙂𝙞𝙩𝙃𝙪𝙗.
+- 💻 𝙄 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙙 𝘼 𝙇𝙞𝙫𝙚 𝙏𝙧𝙖𝙘𝙠𝙚𝙧 𝙁𝙤𝙧 𝙏𝙝𝙚 𝙂𝙞𝙩𝙃𝙪𝙗.
+  https://rb.gy/2ylm5
 
   https://shorturl.at/jCPX3
-  
-- 💁‍♂️ I’m looking for help with bots & front end.
 
 - 💬 If you have any doubts about my projects, feel free to ask me.
 
@@ -45,15 +44,13 @@ Connect With Me:
     <a href="https://twitter.com/Learn_earns123" target="blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="https://twitter.com/utkarshpathrabe" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
      </a>
-    <a href="https://www.linkedin.com/in/yashawanth-r-750b7918b/" target="blank" rel="noreferrer">
+    <a href="https://www.linkedin.com/in/toufiksj" target="blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://linkedin.com/in/utkarshpathrabe" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
-   <a href="https://instagram.com/work_it_lit?igshid=Yzg5MTU1MDY=" target="blank" rel="noreferrer">
+   <a href="https://instagram.com/https://www.instagram.com/heart_ticker_toufik/" target="blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://instagram.com/utkarsh_pathrabe" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
-   <a href="https://t.me/yashu6675" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="https://instagram.com/utkarsh_pathrabe" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
     
 <h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
@@ -74,16 +71,16 @@ Languages & Tools:
 # 📊 GitHub Stats
 
 <p align="center">
-<img style="border-radius: 50px;" src="https://github-readme-stats.vercel.app/api?username=yashu1wwww&show_icons=true&theme=transparent">
+<img style="border-radius: 50px;" src="https://github-readme-stats.vercel.app/api?username=Toufik2022&show_icons=true&theme=transparent">
 </p>
-  
-</br> 
+ 
+ </br> 
 <p align="center">  
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashu1wwww&theme=vue" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user= Toufik2022&theme=vue" />
 </p>
 </br> 
    
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashu1wwww&show_icons=true&locale=en&layout=compact" alt="yashu1wwww" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username= Toufik2022&show_icons=true&locale=en&layout=compact" alt="yashu1wwww" /></p>
 
 </div>
 
@@ -94,7 +91,7 @@ Languages & Tools:
 <𝙂𝙧𝙖𝙥𝙝📈>
   
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashu1wwww&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username= Toufik2022&theme=vue"/>
 </p>
   
 -------------------------------------------------------------------------------------------------------------------------------------------------------------- 
