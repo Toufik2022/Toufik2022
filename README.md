@@ -21,14 +21,13 @@
 ![](https://img.shields.io/badge/Youtube-Carsamba%20--%20Cumartesi%20Saat%2017.00-red)
 --> 
 
-- 😄 Pronouns: He/His
+😄 Pronouns: He/His
 
+💻 𝙄 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙙 𝘼 𝙇𝙞𝙫𝙚 𝙏𝙧𝙖𝙘𝙠𝙚𝙧 𝙁𝙤𝙧 𝙏𝙝𝙚 𝙂𝙞𝙩𝙃𝙪𝙗.
+  
+https://rb.gy/2ylm5
 
-- 💻 𝙄 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙙 𝘼 𝙇𝙞𝙫𝙚 𝙏𝙧𝙖𝙘𝙠𝙚𝙧 𝙁𝙤𝙧 𝙏𝙝𝙚 𝙂𝙞𝙩𝙃𝙪𝙗.
-- 
-  https://rb.gy/2ylm5
-
-- 💬 If you have any doubts about my projects, feel free to ask me.
+If you have any doubts about my projects, feel free to ask me.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
