@@ -5,23 +5,17 @@
 
 <p align="center">
   <div align="center">
-    <img
-        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=WELCOME+TO+MY+WORLD!+;Python+;Front+End+Projects+;Python+With+Selenium+;Good+Sense+Of+Humour🔑+;Learning+New+Things🧩+;Cyber+Security🎯+;Devops🎯"
-            alt="Typing SVG"
-        />
-    </a>
-</p>
-</div>
 
-<a href="https://hits.sh/github.com/yashu1wwww/"><img alt="Hits" src="https://hits.sh/github.com/yashu1wwww.svg?label=PROFILE%20VIEWS&extraCount=101000&color=e51c1c"/></a>
+
+<a href="https://hits.sh/github.com/Toufik2022/"><img alt="Hits" src="https://hits.sh/github.com/Toufik2022.svg?label=PROFILE%20VISITS&extraCount=20000&color=cc1136"/></a>
 
 <img align="center" alt="Coding" width="600" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="gif">
 
 <h1 align="center">Hi 👋 I'm Yashu_krish11</h1>
-<h2 align="center">𝘼 𝙋𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝘽𝙤𝙩 & 𝐅𝐫𝐨𝐧𝐭 𝐄𝐧𝐝 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧🤖</h3>
+<h2 align="center">𝘼 𝙋𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚</h3>
 
 # 💫 About Me :
-![](https://img.shields.io/badge/Front%20Developer%20%2F%20Cyber%20Security🎯-Analyzer%20%2F%20Memer%20%2F%20Bot%20Developer%20-white)
+![](https://img.shields.io/badge/Front%20Developer%20%2F%20Cyber%20Security🎯-Analyzer%20%2F%20Memer%20%2F%20-white)
 <!--
 ![](https://img.shields.io/badge/Twitch-Persembe%20--%20Pazar%20Gunleri%20Saat%2020.00-purple)
 ![](https://img.shields.io/badge/Youtube-Carsamba%20--%20Cumartesi%20Saat%2017.00-red)
@@ -34,26 +28,6 @@
 
   https://shorturl.at/jCPX3
   
-- 💻 AWS Certified Cloud Practitioner✔️
-
-- 💻 𝐌𝐚𝐝𝐞 𝘽𝙤𝙤𝙠𝙈𝙮𝙎𝙝𝙤𝙬 𝘼𝙪𝙩𝙤 𝙍𝙖𝙩𝙞𝙣𝙜𝙨✔️
-
-- 💻 𝐌𝐚𝐝𝐞 100 𝙔𝙤𝙪𝙩𝙪𝙗𝙚 𝘼𝙪𝙩𝙤 𝙇𝙞𝙠𝙚𝙨 𝐅𝐨𝐫 𝐁𝐨𝐭𝐡 𝐘𝐭 𝐕𝐢𝐝𝐞𝐨 & 𝐘𝐭 𝐒𝐡𝐨𝐫𝐭𝐬 𝙐𝙨𝙞𝙣𝙜 𝙎𝙚𝙡𝙚𝙣𝙞𝙪𝙢 𝙒𝙞𝙩𝙝 𝙋𝙮𝙩𝙝𝙤𝙣 𝙄𝙣 𝙇𝙤𝙘𝙖𝙡𝙝𝙤𝙨𝙩.
-
-- 💻 𝐌𝐚𝐝𝐞 500+ 𝙉𝙤𝙣 𝙎𝙩𝙤𝙥 𝙔𝙤𝙪𝙏𝙪𝙗𝙚 𝘼𝙪𝙩𝙤 𝘾𝙤𝙢𝙢𝙚𝙣𝙩𝙨 𝐅𝐨𝐫 𝐁𝐨𝐭𝐡 𝐘𝐭 𝐕𝐢𝐝𝐞𝐨 & 𝐘𝐭 𝐒𝐡𝐨𝐫𝐭𝐬 𝙐𝙨𝙞𝙣𝙜 𝙎𝙚𝙡𝙚𝙣𝙞𝙪𝙢 𝙒𝙞𝙩𝙝 𝙋𝙮𝙩𝙝𝙤𝙣 𝙄𝙣 𝙇𝙤𝙘𝙖𝙡𝙝𝙤𝙨𝙩.
-
-- 💻 𝙈𝙖𝙙𝙚 100 𝙔𝙤𝙪𝙩𝙪𝙗𝙚 𝘼𝙪𝙩𝙤 𝙎𝙪𝙗𝙨𝙘𝙧𝙞𝙗𝙚𝙧𝙨 𝙐𝙨𝙞𝙣𝙜 𝙎𝙚𝙡𝙚𝙣𝙞𝙪𝙢 𝙒𝙞𝙩𝙝 𝙋𝙮𝙩𝙝𝙤𝙣 𝙄𝙣 𝙇𝙤𝙘𝙖𝙡𝙝𝙤𝙨𝙩
-
-- 💻 62𝙆+ 𝙡𝙞𝙣𝙚𝙨 𝙤𝙛 𝙘𝙤𝙙𝙚 𝙛𝙤𝙧 𝙖 𝙨𝙞𝙣𝙜𝙡𝙚 𝙨𝙘𝙧𝙞𝙥𝙩 𝙞𝙣 𝙂𝙞𝙩𝙃𝙪𝙗.
-
-  https://shorturl.at/oBHSU
-
-- 💻 𝙊𝙪𝙩 𝙤𝙛 70+ 𝙧𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙞𝙚𝙨, 44 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 𝙖𝙧𝙚 𝙣𝙚𝙬.
-
-  https://shorturl.at/cwyD9
-
-- 🌱 I am currently learning more about front-end development.
-
 - 💁‍♂️ I’m looking for help with bots & front end.
 
 - 💬 If you have any doubts about my projects, feel free to ask me.
@@ -65,7 +39,7 @@ Connect With Me:
 </h3>
 <p align="center" style='margin: 16px 4px 8px;'>
      </a>
-    <a href="mailto:yashwanth6678@gmail.com" target="blank" rel="noreferrer">
+    <a href="mailto:toufikjagirdar@gmail.com" target="blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:uapathrabe@gmail.com" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
     <a href="https://twitter.com/Learn_earns123" target="blank" rel="noreferrer">
