@@ -1,33 +1,148 @@
+<h3 align="center">
+
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header)
 
 
-<h1 align="center">Hi 👋, I'm Toufik S J</h1>
-<h3 align="center">A passionated about software world🌎</h3>
-<img align="right" alt="Coding" width="300" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif")
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=toufik2022&label=Profile%20views&color=0e75b6&style=flat" alt="toufik2022" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toufik2022" alt="toufik2022" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 💬 Ask me about **Any Technical Issues About Software And Hardware**
-
-- 📫 How to reach me **toufikjagirdar@gmail.com**
-
-- ⚡ Fun fact **"𝗜 𝗖𝗔𝗡 𝗗𝗢 𝗪𝗛𝗔𝗧𝗘𝗩𝗘𝗥 𝗜 𝗪𝗔𝗡𝗧 𝗧𝗢𝗗𝗔𝗬"**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/toufik.jagirdar.7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/toufik.jagirdar.7/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/heart_ticker_toufik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/heart_ticker_toufik/" height="30" width="40" /></a>
+<p align="center">
+  <div align="center">
+    <img
+        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=WELCOME+TO+MY+WORLD!+;Python+;Front+End+Projects+;Python+With+Selenium+;Good+Sense+Of+Humour🔑+;Learning+New+Things🧩+;Cyber+Security🎯+;Devops🎯"
+            alt="Typing SVG"
+        />
+    </a>
 </p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<a href="https://hits.sh/github.com/yashu1wwww/"><img alt="Hits" src="https://hits.sh/github.com/yashu1wwww.svg?label=PROFILE%20VIEWS&extraCount=101000&color=e51c1c"/></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=toufik2022&show_icons=true&locale=en&layout=compact" alt="toufik2022" /></p>
+<img align="center" alt="Coding" width="600" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="gif">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toufik2022&show_icons=true&locale=en" alt="toufik2022" /></p>
+<h1 align="center">Hi 👋 I'm Yashu_krish11</h1>
+<h2 align="center">𝘼 𝙋𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝘽𝙤𝙩 & 𝐅𝐫𝐨𝐧𝐭 𝐄𝐧𝐝 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧🤖</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=toufik2022&" alt="toufik2022" /></p>
+# 💫 About Me :
+![](https://img.shields.io/badge/Front%20Developer%20%2F%20Cyber%20Security🎯-Analyzer%20%2F%20Memer%20%2F%20Bot%20Developer%20-white)
+<!--
+![](https://img.shields.io/badge/Twitch-Persembe%20--%20Pazar%20Gunleri%20Saat%2020.00-purple)
+![](https://img.shields.io/badge/Youtube-Carsamba%20--%20Cumartesi%20Saat%2017.00-red)
+--> 
+
+- 😄 Pronouns: He/His
+
+
+- 💻 𝙄 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙙 𝘼 𝙇𝙞𝙫𝙚 𝙏𝙧𝙖𝙘𝙠𝙚𝙧 𝙁𝙤𝙧 𝙏𝙝𝙚 𝙉𝙪𝙢𝙗𝙚𝙧 𝙊𝙛 𝙋𝙧𝙤𝙛𝙞𝙡𝙚 𝙑𝙞𝙚𝙬𝙨 & 𝙁𝙤𝙡𝙡𝙤𝙬𝙚𝙧𝙨 𝘾𝙤𝙪𝙣𝙩 𝙊𝙣 𝙂𝙞𝙩𝙃𝙪𝙗.
+
+  https://shorturl.at/jCPX3
+  
+- 💻 AWS Certified Cloud Practitioner✔️
+
+- 💻 𝐌𝐚𝐝𝐞 𝘽𝙤𝙤𝙠𝙈𝙮𝙎𝙝𝙤𝙬 𝘼𝙪𝙩𝙤 𝙍𝙖𝙩𝙞𝙣𝙜𝙨✔️
+
+- 💻 𝐌𝐚𝐝𝐞 100 𝙔𝙤𝙪𝙩𝙪𝙗𝙚 𝘼𝙪𝙩𝙤 𝙇𝙞𝙠𝙚𝙨 𝐅𝐨𝐫 𝐁𝐨𝐭𝐡 𝐘𝐭 𝐕𝐢𝐝𝐞𝐨 & 𝐘𝐭 𝐒𝐡𝐨𝐫𝐭𝐬 𝙐𝙨𝙞𝙣𝙜 𝙎𝙚𝙡𝙚𝙣𝙞𝙪𝙢 𝙒𝙞𝙩𝙝 𝙋𝙮𝙩𝙝𝙤𝙣 𝙄𝙣 𝙇𝙤𝙘𝙖𝙡𝙝𝙤𝙨𝙩.
+
+- 💻 𝐌𝐚𝐝𝐞 500+ 𝙉𝙤𝙣 𝙎𝙩𝙤𝙥 𝙔𝙤𝙪𝙏𝙪𝙗𝙚 𝘼𝙪𝙩𝙤 𝘾𝙤𝙢𝙢𝙚𝙣𝙩𝙨 𝐅𝐨𝐫 𝐁𝐨𝐭𝐡 𝐘𝐭 𝐕𝐢𝐝𝐞𝐨 & 𝐘𝐭 𝐒𝐡𝐨𝐫𝐭𝐬 𝙐𝙨𝙞𝙣𝙜 𝙎𝙚𝙡𝙚𝙣𝙞𝙪𝙢 𝙒𝙞𝙩𝙝 𝙋𝙮𝙩𝙝𝙤𝙣 𝙄𝙣 𝙇𝙤𝙘𝙖𝙡𝙝𝙤𝙨𝙩.
+
+- 💻 𝙈𝙖𝙙𝙚 100 𝙔𝙤𝙪𝙩𝙪𝙗𝙚 𝘼𝙪𝙩𝙤 𝙎𝙪𝙗𝙨𝙘𝙧𝙞𝙗𝙚𝙧𝙨 𝙐𝙨𝙞𝙣𝙜 𝙎𝙚𝙡𝙚𝙣𝙞𝙪𝙢 𝙒𝙞𝙩𝙝 𝙋𝙮𝙩𝙝𝙤𝙣 𝙄𝙣 𝙇𝙤𝙘𝙖𝙡𝙝𝙤𝙨𝙩
+
+- 💻 62𝙆+ 𝙡𝙞𝙣𝙚𝙨 𝙤𝙛 𝙘𝙤𝙙𝙚 𝙛𝙤𝙧 𝙖 𝙨𝙞𝙣𝙜𝙡𝙚 𝙨𝙘𝙧𝙞𝙥𝙩 𝙞𝙣 𝙂𝙞𝙩𝙃𝙪𝙗.
+
+  https://shorturl.at/oBHSU
+
+- 💻 𝙊𝙪𝙩 𝙤𝙛 70+ 𝙧𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙞𝙚𝙨, 44 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 𝙖𝙧𝙚 𝙣𝙚𝙬.
+
+  https://shorturl.at/cwyD9
+
+- 🌱 I am currently learning more about front-end development.
+
+- 💁‍♂️ I’m looking for help with bots & front end.
+
+- 💬 If you have any doubts about my projects, feel free to ask me.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
+Connect With Me:
+</h3>
+<p align="center" style='margin: 16px 4px 8px;'>
+     </a>
+    <a href="mailto:yashwanth6678@gmail.com" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:uapathrabe@gmail.com" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://twitter.com/Learn_earns123" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="https://twitter.com/utkarshpathrabe" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+     </a>
+    <a href="https://www.linkedin.com/in/yashawanth-r-750b7918b/" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://linkedin.com/in/utkarshpathrabe" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+   <a href="https://instagram.com/work_it_lit?igshid=Yzg5MTU1MDY=" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://instagram.com/utkarsh_pathrabe" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+   <a href="https://t.me/yashu6675" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="https://instagram.com/utkarsh_pathrabe" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+<h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
+Languages & Tools:
+</h3>
+<p align="center" style='margin: 16px 4px 8px;'>
+  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,aws,selenium,html,css,vscode,bots,docker,eclipse,powershell,linux,wordpress,git,discord,powershell,visualstudio,stackoverflow," />
+  </a>
+</p>  
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<div align="center">
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img style="border-radius: 50px;" src="https://github-readme-stats.vercel.app/api?username=yashu1wwww&show_icons=true&theme=transparent">
+</p>
+  
+</br> 
+<p align="center">  
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashu1wwww&theme=vue" />
+</p>
+</br> 
+   
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashu1wwww&show_icons=true&locale=en&layout=compact" alt="yashu1wwww" /></p>
+
+</div>
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h3 align="center" style='margin: 32px 4px 8px; font-size: 50px;'>
+  
+<𝙂𝙧𝙖𝙥𝙝📈>
+  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashu1wwww&theme=vue"/>
+</p>
+  
+-------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+  <div align="center">
+
+### ✍️ Random Dev Quotes
+
+![Random Dev Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+  
+<div align="center">
+
+### ✍️ Random Dev Jokes
+
+<p align="center">
+ <a href="https://readme-jokes.vercel.app">
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes" style="width: 400px; height: 300px;">
+</a>
+  
+Show some ⭐ to some repositories!
+  
+![wave](https://user-images.githubusercontent.com/65462564/225171686-93c2fd4b-ced4-4602-85e4-13deacf4af62.svg)
+
