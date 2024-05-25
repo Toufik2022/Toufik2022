@@ -56,7 +56,7 @@ Languages & Tools:
   
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,aws,selenium,html,css,vscode,powershell,linux,wordpress,git,discord,powershell,visualstudio,stackoverflow," />
+    <img src="https://skillicons.dev/icons?i=python,html,css,vscode,git,discord,powershell,visualstudio," />
   </a>
 </p>  
  
@@ -76,7 +76,7 @@ Languages & Tools:
 </p>
 </br> 
    
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Toufik2022&show_icons=true&locale=en&layout=compact" alt="yashu1wwww" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Toufik2022&show_icons=true&locale=en&layout=compact" alt="Toufik2022" /></p>
 
 </div>
 
